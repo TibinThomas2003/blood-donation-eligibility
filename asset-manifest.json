@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/blood-donation-eligibility/static/js/main.a8153028.js",
+    "main.js": "/blood-donation-eligibility/static/js/main.bea7fa45.js",
     "index.html": "/blood-donation-eligibility/index.html",
-    "main.a8153028.js.map": "/blood-donation-eligibility/static/js/main.a8153028.js.map"
+    "main.bea7fa45.js.map": "/blood-donation-eligibility/static/js/main.bea7fa45.js.map"
   },
   "entrypoints": [
-    "static/js/main.a8153028.js"
+    "static/js/main.bea7fa45.js"
   ]
 }
