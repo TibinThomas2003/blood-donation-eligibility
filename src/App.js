@@ -68,7 +68,7 @@ function App() {
       {/* Main Content */}
       <Container maxWidth="lg" sx={{ py: 4 }}>
         <Routes>
-          <Route path="/" element={<QuestionForm />} />
+          <Route path="/tibinthomas2003.github.io" element={<QuestionForm />} />
           <Route path="/women" element={<WomenPage />} />
           <Route
             path="*"
