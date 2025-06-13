@@ -44,7 +44,7 @@ function App() {
             <Typography
               variant="h5"
               component={NavLink}
-              to="/https://tibinthomas2003.github.io/"
+              to="/"
               sx={{
                 textDecoration: "none",
                 color: "inherit",
